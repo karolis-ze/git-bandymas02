@@ -1,0 +1,6 @@
+pienas 1.20 €
+duona 0.90 €
+obuoliai 2.00 €
+kava 3.50 €
+arbata 2.40 €
+sultys 1.50 €
